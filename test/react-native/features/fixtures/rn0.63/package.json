@@ -10,6 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@bugsnag/react-native": "^7.6.1-ci-next.b46466df17",
     "react": "16.13.1",
     "react-native": "0.63.1"
   },
